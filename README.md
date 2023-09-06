@@ -1,5 +1,5 @@
 # LC3b-nonpipelined-simulator
-This is a cycle by cycle simulator of the LC-3b theoretical architecture. This project was made to complete Labs 4 and 5 of UT Austin's Computer Architecture course.
+This is a cycle by cycle simulator of the LC-3b theoretical architecture, programmed in C. This project was made to complete Labs 4 and 5 of UT Austin's Computer Architecture course.
 
 The architecture of this processor lacked key features, such as interrupts, exceptions, and virtual memory. In lab 4, support for interrupts and exceptions was designed by hand and added. In lab 5, support for virtual memory was designed by hand and added. The design changes can be seen below. Microcode is included to facilitate rtl flow in the simulator.
 
